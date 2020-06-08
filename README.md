@@ -4,6 +4,4 @@ Miscellaneous JS & CSS enhancements for cytube channels. Updated & Added to spor
 
 ### Image Embedding
 
-Embeds image links sent in the chat
-
-[Source Code](https://github.com/06000208/CyTube-Cubed/blob/master/image-embedding.js)
+Embeds image links sent in the chat. [Source Code](https://github.com/06000208/CyTube-Cubed/blob/master/image-embedding.js)
